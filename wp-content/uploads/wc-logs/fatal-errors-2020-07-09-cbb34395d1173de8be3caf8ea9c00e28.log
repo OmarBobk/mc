@@ -1,0 +1,24 @@
+2020-07-09T09:11:27+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-07-09T09:16:52+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-07-09T09:17:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-07-09T09:19:02+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\Requests\Transport\cURL.php on line 163
+
+2020-07-09T09:37:52+00:00 CRITICAL require(): Failed opening required '' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\jetpack\vendor\class-autoloader-handler.php on line 87
+
+2020-07-09T10:05:22+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-includes\customize\class-wp-customize-nav-menu-control.php on line 78
+
+2020-07-09T10:07:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\tracks\class-wc-tracks-client.php on line 212
+
+2020-07-09T13:20:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\class-wp-filesystem-direct.php on line 81
+
+2020-07-09T13:41:27+00:00 CRITICAL syntax error, unexpected '.' in C:\xampp\htdocs\wordpress\wp-content\themes\boutique\inc\class-boutique-customizer.php on line 171
+
+2020-07-09T13:42:39+00:00 CRITICAL syntax error, unexpected '.' in C:\xampp\htdocs\wordpress\wp-content\themes\boutique\inc\class-boutique-customizer.php on line 170
+
+2020-07-09T13:55:58+00:00 CRITICAL require(): Failed opening required '' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\jetpack\vendor\class-autoloader-handler.php on line 87
+
+2020-07-09T13:56:17+00:00 CRITICAL require(): Failed opening required '' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\wordpress\wp-content\plugins\jetpack\vendor\class-autoloader-handler.php on line 87
+

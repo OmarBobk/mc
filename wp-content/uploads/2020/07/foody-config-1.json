@@ -1,0 +1,119 @@
+{
+    "home_url": "http:\/\/foodyfree.phoeniixxdemo.com\/",
+    "menus": {
+        "primary": 2
+    },
+    "pages": {
+        "page_on_front":102,
+        "page_for_posts": 104
+    },
+    "options": {
+        "show_on_front": "page"
+    },
+	"theme_mods": {	
+		"0": false,
+       "custom_css_post_id":-1,
+		"custom_logo":106,
+		"header_textcolor":"blank",
+		"banner_top_content1":"free delivery on all order overs$99",
+		"banner_top_content2":"any time fast delivery and good quality",
+		"banner_top_content3":"receive gifts when you subscribe",
+		"header_feature_img":"http://foodyfree.phoeniixxdemo.com/wp-content/uploads/2018/01/banner2.jpg",
+		"foody_home_banner_on_off":"on",
+		"bnr_img1":"http://foodyfree.phoeniixxdemo.com/wp-content/uploads/2018/01/banner1.jpg",
+		"bnr_img2":"http://foodyfree.phoeniixxdemo.com/wp-content/uploads/2018/01/banner11.jpg",
+		"bnr_img3":"http://foodyfree.phoeniixxdemo.com/wp-content/uploads/2018/01/banner1.jpg",
+		"recent_product_titl":"our featured products",
+		"sale_product_titl":"our Sale products",
+		"best_selling_product_titl":"best selling products",
+		"footer_text":"Copyright 2017 & All Right Reserved",
+		"nav_menu_locations": {
+            "primary": 25
+        }
+    },
+	"widgets": {
+        "sidebar-1": {
+            "search-2": {
+                "title": ""
+            },
+            "recent-posts-2": {
+                "title": "",
+                "number": 5
+            },
+            "recent-comments-2": {
+                "title": "",
+                "number": 5
+            },
+            "archives-2": {
+                "title": "dfdsgf",
+                "count": 0,
+                "dropdown": 0
+            },
+            "categories-2": {
+                "title": "fsdf",
+                "count": 0,
+                "hierarchical": 0,
+                "dropdown": 0
+            },
+            "meta-2": {
+                "title": ""
+            }
+        },
+		"foody_footer1":{
+			"nav_menu-2":{
+				"title":"are you hungry",
+				"nav_menu":26
+			}			
+		},
+		"foody_footer2":{
+			"nav_menu-3":{
+				"title":"Top Brands",
+				"nav_menu":27
+			}			
+		},
+		"foody_footer3":{
+			"nav_menu-4":{
+				"title":"top offers",
+				"nav_menu":28
+			}			
+		},
+		"foody_footer4":{
+			"nav_menu-5":{
+				"title":"know us better",
+				"nav_menu":"29"
+			}
+		},
+		"foody_footer5":{
+			"media_image-2":{
+				"attachment_id":"106",
+				"url":"http:\/\/foodyfree.phoeniixxdemo.com\/wp-content\/uploads\/2017\/07\/foody-logo.png",
+				"title":"",
+				"size":"203",
+				"height":"27",
+				"caption":"",
+				"alt":"",
+				"link_type":"none",
+				"link_url":"",
+				"image_classes":"",
+				"link_classes":"",
+				"link_rel":"",
+				"image_title":"",
+				"link_target_blank":"false"
+			}
+		},
+		"sidebar-shop":{
+			"woocommerce_price_filter-2":{
+				"title":"Filter by price"
+			},
+			"woocommerce_product_categories-2":{
+				"title":"Product categories",
+				"orderby":"name",
+				"dropdown":"0",
+				"count":"0",
+				"hierarchical":"1",
+				"show_children_only":"0",
+				"hide_empty":"0"
+			}
+		}
+	}
+}
