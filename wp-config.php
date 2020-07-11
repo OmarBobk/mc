@@ -23,10 +23,10 @@
 define( 'DB_NAME', 'mc_wordpress_database' );
 
 /** MySQL database username */
-define( 'DB_USER', 'root' );
+define( 'DB_USER', 'root_testing' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', '' );
+define( 'DB_PASSWORD', '123456789' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
